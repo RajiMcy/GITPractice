@@ -2,3 +2,4 @@ this is to practice the different person commits.
 =======
 i m also doing changes again after the conflict fix
 
+we are good now
